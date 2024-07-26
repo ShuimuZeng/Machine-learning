@@ -10,3 +10,6 @@ https://github.com/trekhleb/machine-learning-experiments/blob/master/README.md
 
 transformer githubsite:
 https://github.com/huggingface/transformers
+
+an illustrated transformer explaination website:
+https://jalammar.github.io/illustrated-transformer/
